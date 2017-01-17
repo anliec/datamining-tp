@@ -11,31 +11,6 @@
 <entry key="EnabledStatus" type="xboolean" value="true"/>
 </config>
 <entry key="columnType" type="xstring" value="MULTI_NUMERICAL"/>
-<config key="multiStringColumnPatter_Internals">
-<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
-<entry key="EnabledStatus" type="xboolean" value="false"/>
-</config>
-<entry key="multiStringColumnPatter" type="xstring" isnull="true" value=""/>
-<config key="multiStringColumnHasWildcards_Internals">
-<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
-<entry key="EnabledStatus" type="xboolean" value="false"/>
-</config>
-<entry key="multiStringColumnHasWildcards" type="xboolean" value="false"/>
-<config key="multiStringColumnCaseSensitive_Internals">
-<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
-<entry key="EnabledStatus" type="xboolean" value="false"/>
-</config>
-<entry key="multiStringColumnCaseSensitive" type="xboolean" value="false"/>
-<config key="multiStringColumnIsRegex_Internals">
-<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
-<entry key="EnabledStatus" type="xboolean" value="false"/>
-</config>
-<entry key="multiStringColumnIsRegex" type="xboolean" value="false"/>
-<config key="multiStringColumnSetMatching_Internals">
-<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
-<entry key="EnabledStatus" type="xboolean" value="false"/>
-</config>
-<entry key="multiStringColumnSetMatching" type="xstring" value="MATCHING"/>
 <config key="multiColumnNames">
 <entry key="filter-type" type="xstring" value="STANDARD"/>
 <config key="included_names">
@@ -211,6 +186,31 @@
 </config>
 </config>
 </config>
+<config key="multiStringColumnPatter_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="false"/>
+</config>
+<entry key="multiStringColumnPatter" type="xstring" isnull="true" value=""/>
+<config key="multiStringColumnHasWildcards_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+<entry key="EnabledStatus" type="xboolean" value="false"/>
+</config>
+<entry key="multiStringColumnHasWildcards" type="xboolean" value="false"/>
+<config key="multiStringColumnCaseSensitive_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+<entry key="EnabledStatus" type="xboolean" value="false"/>
+</config>
+<entry key="multiStringColumnCaseSensitive" type="xboolean" value="false"/>
+<config key="multiStringColumnIsRegex_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+<entry key="EnabledStatus" type="xboolean" value="false"/>
+</config>
+<entry key="multiStringColumnIsRegex" type="xboolean" value="false"/>
+<config key="multiStringColumnSetMatching_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="false"/>
+</config>
+<entry key="multiStringColumnSetMatching" type="xstring" value="MATCHING"/>
 <config key="singleNumericThreshold_Internals">
 <entry key="SettingsModelID" type="xstring" value="SMID_double"/>
 <entry key="EnabledStatus" type="xboolean" value="true"/>
@@ -258,7 +258,11 @@
 <entry key="vectorType" type="xstring" value="DENSE"/>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
-<entry key="state" type="xstring" value="EXECUTED"/>
+<entry key="state" type="xstring" value="CONFIGURED"/>
+<config key="nodecontainer_message">
+<entry key="type" type="xstring" value="WARNING"/>
+<entry key="message" type="xstring" value="Columns rhônealp, 11, 12, 30, 3, 23, ... not found in input table. %%00010Status: DataLoadError: Create Bit Vector 0:81:90%%00010  Status: DataLoadError: Unable to load port content for node &quot;Create Bit Vector&quot;: null"/>
+</config>
 <entry key="factory" type="xstring" value="org.knime.base.node.preproc.bitvector.create.CreateBitVectorNodeFactory"/>
 <entry key="node-name" type="xstring" value="Create Bit Vector"/>
 <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
@@ -271,19 +275,16 @@
 <entry key="node-feature-version" type="xstring" value="3.3.1.v201612192115"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="Create Bit Vector"/>
-<entry key="hasContent" type="xboolean" value="true"/>
+<entry key="hasContent" type="xboolean" value="false"/>
 <entry key="isInactive" type="xboolean" value="false"/>
 <config key="ports">
 <config key="port_1">
 <entry key="index" type="xint" value="1"/>
-<entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
-<entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 1130, Cols: 154"/>
-<entry key="port_dir_location" type="xstring" value="port_1"/>
+<entry key="port_dir_location" type="xstring" isnull="true" value=""/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="dc1e6dbb-4e74-4a90-b6c1-62a91c785ade"/>
+<entry key="file_store_id" type="xstring" isnull="true" value=""/>
 </config>
 </config>
