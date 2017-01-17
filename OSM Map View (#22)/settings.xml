@@ -62,7 +62,7 @@
 <entry key="fill_polygon" type="xboolean" value="false"/>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
-<entry key="state" type="xstring" value="EXECUTED"/>
+<entry key="state" type="xstring" value="IDLE"/>
 <entry key="factory" type="xstring" value="org.knime.ext.osm.node.mapview.OsmMapViewNodeFactory"/>
 <entry key="node-name" type="xstring" value="OSM Map View"/>
 <entry key="node-bundle-name" type="xstring" value="KNIME Open Street Map Views Integration"/>
@@ -74,12 +74,12 @@
 <entry key="node-feature-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
 <entry key="node-feature-version" type="xstring" value="3.3.0.v201612012034"/>
 <config key="factory_settings"/>
-<entry key="name" type="xstring" value="OSM Map View"/>
-<entry key="hasContent" type="xboolean" value="true"/>
+<entry key="name" type="xstring" value="MISSING OSM Map View"/>
+<entry key="hasContent" type="xboolean" value="false"/>
 <entry key="isInactive" type="xboolean" value="false"/>
 <config key="ports"/>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="0c658af7-9a08-4b85-bc7c-9b3dd2483be3"/>
+<entry key="file_store_id" type="xstring" isnull="true" value=""/>
 </config>
 </config>
