@@ -132,7 +132,7 @@
 <entry key="119" type="xstring" value="date_taken_month"/>
 <entry key="120" type="xstring" value="date_taken_year"/>
 <entry key="121" type="xstring" value="tags"/>
-<entry key="122" type="xstring" value="Winner Cluster"/>
+<entry key="122" type="xstring" value="Cluster"/>
 </config>
 <config key="excluded_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -277,7 +277,7 @@
 <entry key="115" type="xstring" value="date_taken_day"/>
 <entry key="116" type="xstring" value="date_taken_month"/>
 <entry key="117" type="xstring" value="date_taken_year"/>
-<entry key="118" type="xstring" value="Winner Cluster"/>
+<entry key="118" type="xstring" value="Cluster"/>
 </config>
 <config key="excluded_names">
 <entry key="array-size" type="xint" value="4"/>
@@ -309,11 +309,7 @@
 <entry key="min_max_unselected_retain" type="xboolean" value="true"/>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
-<entry key="state" type="xstring" value="IDLE"/>
-<config key="nodecontainer_message">
-<entry key="type" type="xstring" value="WARNING"/>
-<entry key="message" type="xstring" value="Input table does not contain the following column(s) selected in the possible value panel: &quot;lumièr&quot;, &quot;jacquesmeynierdemalvialatôtundimanchematin&quot;, &quot;muséedesbeauxartsdelyon&quot;,  ... &lt;12 more&gt;"/>
-</config>
+<entry key="state" type="xstring" value="EXECUTED"/>
 <entry key="factory" type="xstring" value="org.knime.base.node.preproc.domain.dialog2.DomainNodeFactory"/>
 <entry key="node-name" type="xstring" value="Domain Calculator"/>
 <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
@@ -326,16 +322,19 @@
 <entry key="node-feature-version" type="xstring" value="3.3.1.v201612192115"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="Domain Calculator"/>
-<entry key="hasContent" type="xboolean" value="false"/>
+<entry key="hasContent" type="xboolean" value="true"/>
 <entry key="isInactive" type="xboolean" value="false"/>
 <config key="ports">
 <config key="port_1">
 <entry key="index" type="xint" value="1"/>
-<entry key="port_dir_location" type="xstring" isnull="true" value=""/>
+<entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
+<entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 1634, Cols: 123"/>
+<entry key="port_dir_location" type="xstring" value="port_1"/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" isnull="true" value=""/>
+<entry key="file_store_id" type="xstring" value="59d27600-0664-4e19-ac92-9734368c7eb0"/>
 </config>
 </config>

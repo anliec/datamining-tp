@@ -10,7 +10,7 @@
 <entry key="lastEdited-when" type="xstring" isnull="true" value=""/>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
-<entry key="state" type="xstring" value="IDLE"/>
+<entry key="state" type="xstring" value="EXECUTED"/>
 <config key="workflow_credentials"/>
 <config key="nodes">
 <config key="node_70">
@@ -198,26 +198,10 @@
 <config key="ui_settings">
 <config key="extrainfo.node.bounds">
 <entry key="array-size" type="xint" value="4"/>
-<entry key="0" type="xint" value="844"/>
-<entry key="1" type="xint" value="817"/>
+<entry key="0" type="xint" value="724"/>
+<entry key="1" type="xint" value="777"/>
 <entry key="2" type="xint" value="78"/>
 <entry key="3" type="xint" value="65"/>
-</config>
-</config>
-</config>
-<config key="node_102">
-<entry key="id" type="xint" value="102"/>
-<entry key="node_settings_file" type="xstring" value="Row Filter (#102)/settings.xml"/>
-<entry key="node_is_meta" type="xboolean" value="false"/>
-<entry key="node_type" type="xstring" value="NativeNode"/>
-<entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.NodeUIInformation"/>
-<config key="ui_settings">
-<config key="extrainfo.node.bounds">
-<entry key="array-size" type="xint" value="4"/>
-<entry key="0" type="xint" value="704"/>
-<entry key="1" type="xint" value="697"/>
-<entry key="2" type="xint" value="61"/>
-<entry key="3" type="xint" value="78"/>
 </config>
 </config>
 </config>
@@ -321,9 +305,9 @@
 </config>
 <config key="connection_11">
 <entry key="sourceID" type="xint" value="92"/>
-<entry key="destID" type="xint" value="102"/>
+<entry key="destID" type="xint" value="-1"/>
 <entry key="sourcePort" type="xint" value="1"/>
-<entry key="destPort" type="xint" value="1"/>
+<entry key="destPort" type="xint" value="0"/>
 </config>
 <config key="connection_12">
 <entry key="sourceID" type="xint" value="93"/>
@@ -332,18 +316,12 @@
 <entry key="destPort" type="xint" value="1"/>
 </config>
 <config key="connection_13">
-<entry key="sourceID" type="xint" value="102"/>
-<entry key="destID" type="xint" value="-1"/>
-<entry key="sourcePort" type="xint" value="1"/>
-<entry key="destPort" type="xint" value="0"/>
-</config>
-<config key="connection_14">
 <entry key="sourceID" type="xint" value="103"/>
 <entry key="destID" type="xint" value="70"/>
 <entry key="sourcePort" type="xint" value="1"/>
 <entry key="destPort" type="xint" value="1"/>
 </config>
-<config key="connection_15">
+<config key="connection_14">
 <entry key="sourceID" type="xint" value="103"/>
 <entry key="destID" type="xint" value="85"/>
 <entry key="sourcePort" type="xint" value="1"/>
@@ -367,7 +345,7 @@
 <config key="port_enum">
 <config key="outport_0">
 <entry key="index" type="xint" value="0"/>
-<entry key="name" type="xstring" value="Connected to: Filtered"/>
+<entry key="name" type="xstring" value="Connected to: Association Rules"/>
 <config key="type">
 <entry key="object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
 </config>

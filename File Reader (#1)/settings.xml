@@ -62,8 +62,8 @@
 <entry key="acceptShortLines" type="xboolean" value="false"/>
 <entry key="uniquifyRowID" type="xboolean" value="false"/>
 <entry key="MaxNumOfRows" type="xlong" value="-1"/>
-<entry key="ColNumDetermLine" type="xint" value="-1"/>
-<entry key="CharsetName" type="xstring" isnull="true" value=""/>
+<entry key="ColNumDetermLine" type="xint" value="2"/>
+<entry key="CharsetName" type="xstring" value="UTF-8"/>
 <entry key="delimsAtEOLuserVal" type="xboolean" value="false"/>
 <entry key="numOfColumns" type="xint" value="16"/>
 <config key="ColumnProperties">
@@ -302,6 +302,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="d5eac029-e143-40fc-88f2-4c9f4966f5fa"/>
+<entry key="file_store_id" type="xstring" value="e90932ee-38e5-4df8-84a1-ad3a93ab6d60"/>
 </config>
 </config>
