@@ -26,34 +26,39 @@
 <entry key="EnabledStatus" type="xboolean" value="true"/>
 </config>
 <entry key="minSetSize" type="xint" value="10"/>
-<config key="minSupport_Internals">
-<entry key="SettingsModelID" type="xstring" value="SMID_double"/>
-<entry key="EnabledStatus" type="xboolean" value="true"/>
-</config>
-<entry key="minSupport" type="xdouble" value="10.0"/>
 <config key="supportType_Internals">
 <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
 <entry key="EnabledStatus" type="xboolean" value="true"/>
 </config>
 <entry key="supportType" type="xstring" value="ABSOLUTE"/>
+<config key="minSupport_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_double"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="minSupport" type="xdouble" value="10.0"/>
 <config key="threshold_Internals">
 <entry key="SettingsModelID" type="xstring" value="SMID_double"/>
 <entry key="EnabledStatus" type="xboolean" value="false"/>
 </config>
 <entry key="threshold" type="xdouble" value="10.0"/>
-<config key="sortItemSet_Internals">
-<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
-<entry key="EnabledStatus" type="xboolean" value="true"/>
+<config key="weight_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_double"/>
+<entry key="EnabledStatus" type="xboolean" value="false"/>
 </config>
-<entry key="sortItemSet" type="xboolean" value="false"/>
+<entry key="weight" type="xdouble" value="0.0"/>
 <config key="additionalParameter_Internals">
 <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
 <entry key="EnabledStatus" type="xboolean" value="true"/>
 </config>
 <entry key="additionalParameter" type="xstring" value=""/>
+<config key="sortItemSet_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="sortItemSet" type="xboolean" value="false"/>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
-<entry key="state" type="xstring" value="EXECUTED"/>
+<entry key="state" type="xstring" value="IDLE"/>
 <entry key="factory" type="xstring" value="org.knime.ext.itemset.nodes.miner.ItemSetMinerNodeFactory"/>
 <entry key="node-name" type="xstring" value="Item Set Finder (Borgelt)"/>
 <entry key="node-bundle-name" type="xstring" value="KNIME Item set miner plugin"/>
@@ -66,19 +71,16 @@
 <entry key="node-feature-version" type="xstring" value="3.3.0.v201612012034"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="Item Set Finder (Borgelt)"/>
-<entry key="hasContent" type="xboolean" value="true"/>
+<entry key="hasContent" type="xboolean" value="false"/>
 <entry key="isInactive" type="xboolean" value="false"/>
 <config key="ports">
 <config key="port_1">
 <entry key="index" type="xint" value="1"/>
-<entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
-<entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 4, Cols: 4"/>
-<entry key="port_dir_location" type="xstring" value="port_1"/>
+<entry key="port_dir_location" type="xstring" isnull="true" value=""/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="48c9a056-f004-4b76-8a73-cde185f9e9e3"/>
+<entry key="file_store_id" type="xstring" isnull="true" value=""/>
 </config>
 </config>
