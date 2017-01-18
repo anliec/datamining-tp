@@ -11,49 +11,49 @@
 <config key="included_names">
 <entry key="array-size" type="xint" value="123"/>
 <entry key="0" type="xstring" value="Document"/>
-<entry key="1" type="xstring" value="leica"/>
+<entry key="1" type="xstring" value="lyon"/>
 <entry key="2" type="xstring" value="franc"/>
-<entry key="3" type="xstring" value="35mm"/>
-<entry key="4" type="xstring" value="nikon"/>
-<entry key="5" type="xstring" value="frankreich"/>
-<entry key="6" type="xstring" value="lyon"/>
-<entry key="7" type="xstring" value="summicron"/>
-<entry key="8" type="xstring" value="leitz"/>
-<entry key="9" type="xstring" value="rhônealp"/>
-<entry key="10" type="xstring" value="summicronr"/>
-<entry key="11" type="xstring" value="summicronr35mmf2"/>
-<entry key="12" type="xstring" value="leitax"/>
-<entry key="13" type="xstring" value="l35d800lyo15"/>
-<entry key="14" type="xstring" value="francechurch"/>
-<entry key="15" type="xstring" value="saint"/>
-<entry key="16" type="xstring" value="lyonkirch"/>
-<entry key="17" type="xstring" value="night"/>
-<entry key="18" type="xstring" value="hockei"/>
-<entry key="19" type="xstring" value="lyoncharlemagn"/>
-<entry key="20" type="xstring" value="lion"/>
-<entry key="21" type="xstring" value="liguemagnu"/>
-<entry key="22" type="xstring" value="f2d800paroiss"/>
-<entry key="23" type="xstring" value="catholiqu"/>
-<entry key="24" type="xstring" value="nizier"/>
-<entry key="25" type="xstring" value="build"/>
-<entry key="26" type="xstring" value="architectur"/>
-<entry key="27" type="xstring" value="upload"/>
-<entry key="28" type="xstring" value="bridg"/>
-<entry key="29" type="xstring" value="place"/>
-<entry key="30" type="xstring" value="squar"/>
-<entry key="31" type="xstring" value="squareformat"/>
-<entry key="32" type="xstring" value="iphoneographi"/>
-<entry key="33" type="xstring" value="instagramapp"/>
-<entry key="34" type="xstring" value="byinstagram"/>
-<entry key="35" type="xstring" value="foursquar"/>
-<entry key="36" type="xstring" value="lyonconflu"/>
-<entry key="37" type="xstring" value="street"/>
-<entry key="38" type="xstring" value="citi"/>
-<entry key="39" type="xstring" value="light"/>
-<entry key="40" type="xstring" value="muséedesconflu"/>
-<entry key="41" type="xstring" value="musé"/>
-<entry key="42" type="xstring" value="perrach"/>
-<entry key="43" type="xstring" value="fourvièr"/>
+<entry key="3" type="xstring" value="build"/>
+<entry key="4" type="xstring" value="architectur"/>
+<entry key="5" type="xstring" value="leica"/>
+<entry key="6" type="xstring" value="35mm"/>
+<entry key="7" type="xstring" value="nikon"/>
+<entry key="8" type="xstring" value="frankreich"/>
+<entry key="9" type="xstring" value="summicron"/>
+<entry key="10" type="xstring" value="leitz"/>
+<entry key="11" type="xstring" value="rhônealp"/>
+<entry key="12" type="xstring" value="summicronr"/>
+<entry key="13" type="xstring" value="summicronr35mmf2"/>
+<entry key="14" type="xstring" value="leitax"/>
+<entry key="15" type="xstring" value="l35d800lyo15"/>
+<entry key="16" type="xstring" value="night"/>
+<entry key="17" type="xstring" value="upload"/>
+<entry key="18" type="xstring" value="squar"/>
+<entry key="19" type="xstring" value="squareformat"/>
+<entry key="20" type="xstring" value="iphoneographi"/>
+<entry key="21" type="xstring" value="instagramapp"/>
+<entry key="22" type="xstring" value="byinstagram"/>
+<entry key="23" type="xstring" value="foursquar"/>
+<entry key="24" type="xstring" value="lyonconflu"/>
+<entry key="25" type="xstring" value="perrach"/>
+<entry key="26" type="xstring" value="fourvièr"/>
+<entry key="27" type="xstring" value="francechurch"/>
+<entry key="28" type="xstring" value="saint"/>
+<entry key="29" type="xstring" value="lyonkirch"/>
+<entry key="30" type="xstring" value="f2d800paroiss"/>
+<entry key="31" type="xstring" value="catholiqu"/>
+<entry key="32" type="xstring" value="nizier"/>
+<entry key="33" type="xstring" value="muséedesconflu"/>
+<entry key="34" type="xstring" value="musé"/>
+<entry key="35" type="xstring" value="hockei"/>
+<entry key="36" type="xstring" value="lyoncharlemagn"/>
+<entry key="37" type="xstring" value="lion"/>
+<entry key="38" type="xstring" value="liguemagnu"/>
+<entry key="39" type="xstring" value="bridg"/>
+<entry key="40" type="xstring" value="place"/>
+<entry key="41" type="xstring" value="street"/>
+<entry key="42" type="xstring" value="citi"/>
+<entry key="43" type="xstring" value="light"/>
 <entry key="44" type="xstring" value="europ"/>
 <entry key="45" type="xstring" value="rhone"/>
 <entry key="46" type="xstring" value="rhonealp"/>
@@ -132,7 +132,7 @@
 <entry key="119" type="xstring" value="date_taken_month"/>
 <entry key="120" type="xstring" value="date_taken_year"/>
 <entry key="121" type="xstring" value="tags"/>
-<entry key="122" type="xstring" value="Cluster"/>
+<entry key="122" type="xstring" value="Winner Cluster"/>
 </config>
 <config key="excluded_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -159,49 +159,49 @@
 <entry key="filter-type" type="xstring" value="STANDARD"/>
 <config key="included_names">
 <entry key="array-size" type="xint" value="119"/>
-<entry key="0" type="xstring" value="leica"/>
+<entry key="0" type="xstring" value="lyon"/>
 <entry key="1" type="xstring" value="franc"/>
-<entry key="2" type="xstring" value="35mm"/>
-<entry key="3" type="xstring" value="nikon"/>
-<entry key="4" type="xstring" value="frankreich"/>
-<entry key="5" type="xstring" value="lyon"/>
-<entry key="6" type="xstring" value="summicron"/>
-<entry key="7" type="xstring" value="leitz"/>
-<entry key="8" type="xstring" value="rhônealp"/>
-<entry key="9" type="xstring" value="summicronr"/>
-<entry key="10" type="xstring" value="summicronr35mmf2"/>
-<entry key="11" type="xstring" value="leitax"/>
-<entry key="12" type="xstring" value="l35d800lyo15"/>
-<entry key="13" type="xstring" value="francechurch"/>
-<entry key="14" type="xstring" value="saint"/>
-<entry key="15" type="xstring" value="lyonkirch"/>
-<entry key="16" type="xstring" value="night"/>
-<entry key="17" type="xstring" value="hockei"/>
-<entry key="18" type="xstring" value="lyoncharlemagn"/>
-<entry key="19" type="xstring" value="lion"/>
-<entry key="20" type="xstring" value="liguemagnu"/>
-<entry key="21" type="xstring" value="f2d800paroiss"/>
-<entry key="22" type="xstring" value="catholiqu"/>
-<entry key="23" type="xstring" value="nizier"/>
-<entry key="24" type="xstring" value="build"/>
-<entry key="25" type="xstring" value="architectur"/>
-<entry key="26" type="xstring" value="upload"/>
-<entry key="27" type="xstring" value="bridg"/>
-<entry key="28" type="xstring" value="place"/>
-<entry key="29" type="xstring" value="squar"/>
-<entry key="30" type="xstring" value="squareformat"/>
-<entry key="31" type="xstring" value="iphoneographi"/>
-<entry key="32" type="xstring" value="instagramapp"/>
-<entry key="33" type="xstring" value="byinstagram"/>
-<entry key="34" type="xstring" value="foursquar"/>
-<entry key="35" type="xstring" value="lyonconflu"/>
-<entry key="36" type="xstring" value="street"/>
-<entry key="37" type="xstring" value="citi"/>
-<entry key="38" type="xstring" value="light"/>
-<entry key="39" type="xstring" value="muséedesconflu"/>
-<entry key="40" type="xstring" value="musé"/>
-<entry key="41" type="xstring" value="perrach"/>
-<entry key="42" type="xstring" value="fourvièr"/>
+<entry key="2" type="xstring" value="build"/>
+<entry key="3" type="xstring" value="architectur"/>
+<entry key="4" type="xstring" value="leica"/>
+<entry key="5" type="xstring" value="35mm"/>
+<entry key="6" type="xstring" value="nikon"/>
+<entry key="7" type="xstring" value="frankreich"/>
+<entry key="8" type="xstring" value="summicron"/>
+<entry key="9" type="xstring" value="leitz"/>
+<entry key="10" type="xstring" value="rhônealp"/>
+<entry key="11" type="xstring" value="summicronr"/>
+<entry key="12" type="xstring" value="summicronr35mmf2"/>
+<entry key="13" type="xstring" value="leitax"/>
+<entry key="14" type="xstring" value="l35d800lyo15"/>
+<entry key="15" type="xstring" value="night"/>
+<entry key="16" type="xstring" value="upload"/>
+<entry key="17" type="xstring" value="squar"/>
+<entry key="18" type="xstring" value="squareformat"/>
+<entry key="19" type="xstring" value="iphoneographi"/>
+<entry key="20" type="xstring" value="instagramapp"/>
+<entry key="21" type="xstring" value="byinstagram"/>
+<entry key="22" type="xstring" value="foursquar"/>
+<entry key="23" type="xstring" value="lyonconflu"/>
+<entry key="24" type="xstring" value="perrach"/>
+<entry key="25" type="xstring" value="fourvièr"/>
+<entry key="26" type="xstring" value="francechurch"/>
+<entry key="27" type="xstring" value="saint"/>
+<entry key="28" type="xstring" value="lyonkirch"/>
+<entry key="29" type="xstring" value="f2d800paroiss"/>
+<entry key="30" type="xstring" value="catholiqu"/>
+<entry key="31" type="xstring" value="nizier"/>
+<entry key="32" type="xstring" value="muséedesconflu"/>
+<entry key="33" type="xstring" value="musé"/>
+<entry key="34" type="xstring" value="hockei"/>
+<entry key="35" type="xstring" value="lyoncharlemagn"/>
+<entry key="36" type="xstring" value="lion"/>
+<entry key="37" type="xstring" value="liguemagnu"/>
+<entry key="38" type="xstring" value="bridg"/>
+<entry key="39" type="xstring" value="place"/>
+<entry key="40" type="xstring" value="street"/>
+<entry key="41" type="xstring" value="citi"/>
+<entry key="42" type="xstring" value="light"/>
 <entry key="43" type="xstring" value="europ"/>
 <entry key="44" type="xstring" value="rhone"/>
 <entry key="45" type="xstring" value="rhonealp"/>
@@ -277,7 +277,7 @@
 <entry key="115" type="xstring" value="date_taken_day"/>
 <entry key="116" type="xstring" value="date_taken_month"/>
 <entry key="117" type="xstring" value="date_taken_year"/>
-<entry key="118" type="xstring" value="Cluster"/>
+<entry key="118" type="xstring" value="Winner Cluster"/>
 </config>
 <config key="excluded_names">
 <entry key="array-size" type="xint" value="4"/>
@@ -309,29 +309,32 @@
 <entry key="min_max_unselected_retain" type="xboolean" value="true"/>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
-<entry key="state" type="xstring" value="IDLE"/>
+<entry key="state" type="xstring" value="EXECUTED"/>
 <entry key="factory" type="xstring" value="org.knime.base.node.preproc.domain.dialog2.DomainNodeFactory"/>
 <entry key="node-name" type="xstring" value="Domain Calculator"/>
 <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
 <entry key="node-bundle-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
-<entry key="node-bundle-version" type="xstring" value="3.3.1.v201612190931"/>
+<entry key="node-bundle-version" type="xstring" value="3.1.1.v201601211102"/>
 <entry key="node-feature-name" type="xstring" value="KNIME Core"/>
 <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
 <entry key="node-feature-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
-<entry key="node-feature-version" type="xstring" value="3.3.1.v201612192115"/>
+<entry key="node-feature-version" type="xstring" value="3.1.1.v201601291159"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="Domain Calculator"/>
-<entry key="hasContent" type="xboolean" value="false"/>
+<entry key="hasContent" type="xboolean" value="true"/>
 <entry key="isInactive" type="xboolean" value="false"/>
 <config key="ports">
 <config key="port_1">
 <entry key="index" type="xint" value="1"/>
-<entry key="port_dir_location" type="xstring" isnull="true" value=""/>
+<entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
+<entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 1130, Cols: 123"/>
+<entry key="port_dir_location" type="xstring" value="port_1"/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" isnull="true" value=""/>
+<entry key="file_store_id" type="xstring" value="17250b1b-2768-4136-9edb-344e1362b2ad"/>
 </config>
 </config>

@@ -18,7 +18,7 @@
 <entry key="Relative" type="xboolean" value="true"/>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
-<entry key="state" type="xstring" value="CONFIGURED"/>
+<entry key="state" type="xstring" value="EXECUTED"/>
 <entry key="factory" type="xstring" value="org.knime.ext.textprocessing.nodes.frequencies.tf.TfNodeFactory"/>
 <entry key="node-name" type="xstring" value="TF"/>
 <entry key="node-bundle-name" type="xstring" value="KNIME Textprocessing Plug-in"/>
@@ -31,16 +31,19 @@
 <entry key="node-feature-version" type="xstring" value="3.1.1.v201601291159"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="TF"/>
-<entry key="hasContent" type="xboolean" value="false"/>
+<entry key="hasContent" type="xboolean" value="true"/>
 <entry key="isInactive" type="xboolean" value="false"/>
 <config key="ports">
 <config key="port_1">
 <entry key="index" type="xint" value="1"/>
-<entry key="port_dir_location" type="xstring" isnull="true" value=""/>
+<entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
+<entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 7185, Cols: 5"/>
+<entry key="port_dir_location" type="xstring" value="port_1"/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" isnull="true" value=""/>
+<entry key="file_store_id" type="xstring" value="60be71e9-26d7-4105-b3b3-1486bbf06baf"/>
 </config>
 </config>

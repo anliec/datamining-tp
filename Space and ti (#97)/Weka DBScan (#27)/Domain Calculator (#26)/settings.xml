@@ -71,7 +71,7 @@
 <entry key="bgcolor" type="xint" value="16777215"/>
 <entry key="x-coordinate" type="xint" value="587"/>
 <entry key="y-coordinate" type="xint" value="339"/>
-<entry key="width" type="xint" value="107"/>
+<entry key="width" type="xint" value="106"/>
 <entry key="height" type="xint" value="45"/>
 <entry key="alignment" type="xstring" value="CENTER"/>
 <entry key="borderSize" type="xint" value="0"/>
@@ -81,7 +81,7 @@
 <config key="styles"/>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
-<entry key="state" type="xstring" value="EXECUTED"/>
+<entry key="state" type="xstring" value="CONFIGURED"/>
 <entry key="factory" type="xstring" value="org.knime.base.node.preproc.domain.dialog2.DomainNodeFactory"/>
 <entry key="node-name" type="xstring" value="Domain Calculator"/>
 <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
@@ -94,19 +94,16 @@
 <entry key="node-feature-version" type="xstring" value="3.1.1.v201601291159"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="Domain Calculator"/>
-<entry key="hasContent" type="xboolean" value="true"/>
+<entry key="hasContent" type="xboolean" value="false"/>
 <entry key="isInactive" type="xboolean" value="false"/>
 <config key="ports">
 <config key="port_1">
 <entry key="index" type="xint" value="1"/>
-<entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
-<entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 10334, Cols: 10"/>
-<entry key="port_dir_location" type="xstring" value="port_1"/>
+<entry key="port_dir_location" type="xstring" isnull="true" value=""/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="bb4f5da2-b2dc-434b-ad72-77086b02630f"/>
+<entry key="file_store_id" type="xstring" isnull="true" value=""/>
 </config>
 </config>
