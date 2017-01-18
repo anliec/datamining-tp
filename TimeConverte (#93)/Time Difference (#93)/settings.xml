@@ -6,11 +6,6 @@
 <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
 </config>
 <config key="model">
-<config key="seconddate.reference.type_Internals">
-<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
-<entry key="EnabledStatus" type="xboolean" value="true"/>
-</config>
-<entry key="seconddate.reference.type" type="xstring" value="Use execution time"/>
 <config key="column.lower_Internals">
 <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
 <entry key="EnabledStatus" type="xboolean" value="true"/>
@@ -21,6 +16,11 @@
 <entry key="EnabledStatus" type="xboolean" value="false"/>
 </config>
 <entry key="column.upper" type="xstring" value="UploadTime"/>
+<config key="new.column.name_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="new.column.name" type="xstring" value="TakenTimestamp"/>
 <config key="granularity_Internals">
 <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
 <entry key="EnabledStatus" type="xboolean" value="true"/>
@@ -31,11 +31,11 @@
 <entry key="EnabledStatus" type="xboolean" value="true"/>
 </config>
 <entry key="round.numbers" type="xint" value="0"/>
-<config key="new.column.name_Internals">
+<config key="seconddate.reference.type_Internals">
 <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
 <entry key="EnabledStatus" type="xboolean" value="true"/>
 </config>
-<entry key="new.column.name" type="xstring" value="TakenTimestamp"/>
+<entry key="seconddate.reference.type" type="xstring" value="Use execution time"/>
 <config key="cfg.time_Internals">
 <entry key="SettingsModelID" type="xstring" value="settingsmodel.datetime"/>
 <entry key="EnabledStatus" type="xboolean" value="false"/>
@@ -54,11 +54,11 @@
 <entry key="node-bundle-name" type="xstring" value="KNIME Time Series Nodes"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.timeseries"/>
 <entry key="node-bundle-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
-<entry key="node-bundle-version" type="xstring" value="3.3.0.v201612012034"/>
+<entry key="node-bundle-version" type="xstring" value="3.1.1.v201601281239"/>
 <entry key="node-feature-name" type="xstring" value="KNIME Core"/>
 <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
 <entry key="node-feature-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
-<entry key="node-feature-version" type="xstring" value="3.3.1.v201612192115"/>
+<entry key="node-feature-version" type="xstring" value="3.1.1.v201601291159"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="Time Difference"/>
 <entry key="hasContent" type="xboolean" value="false"/>
