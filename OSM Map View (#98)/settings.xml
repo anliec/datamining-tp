@@ -24,14 +24,20 @@
 <entry key="filter-type" type="xstring" value="STANDARD"/>
 <config key="included_names">
 <entry key="array-size" type="xint" value="5"/>
-<entry key="0" type="xstring" value="lat"/>
-<entry key="1" type="xstring" value="long"/>
-<entry key="2" type="xstring" value="Cluster0"/>
-<entry key="3" type="xstring" value="Cluster1"/>
-<entry key="4" type="xstring" value="Winner Cluster"/>
+<entry key="0" type="xstring" value="title"/>
+<entry key="1" type="xstring" value="tags"/>
+<entry key="2" type="xstring" value="TakenTIme"/>
+<entry key="3" type="xstring" value="UploadTime"/>
+<entry key="4" type="xstring" value="Cluster"/>
 </config>
 <config key="excluded_names">
-<entry key="array-size" type="xint" value="0"/>
+<entry key="array-size" type="xint" value="6"/>
+<entry key="0" type="xstring" value="id"/>
+<entry key="1" type="xstring" value="user"/>
+<entry key="2" type="xstring" value="lat"/>
+<entry key="3" type="xstring" value="long"/>
+<entry key="4" type="xstring" value="TakenTimestamp"/>
+<entry key="5" type="xstring" value="UploadTimestamp"/>
 </config>
 <entry key="enforce_option" type="xstring" value="EnforceExclusion"/>
 <config key="name_pattern">
@@ -62,24 +68,24 @@
 <entry key="fill_polygon" type="xboolean" value="false"/>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
-<entry key="state" type="xstring" value="CONFIGURED"/>
+<entry key="state" type="xstring" value="EXECUTED"/>
 <entry key="factory" type="xstring" value="org.knime.ext.osm.node.mapview.OsmMapViewNodeFactory"/>
 <entry key="node-name" type="xstring" value="OSM Map View"/>
 <entry key="node-bundle-name" type="xstring" value="KNIME Open Street Map Views Integration"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.ext.osm"/>
 <entry key="node-bundle-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
-<entry key="node-bundle-version" type="xstring" value="3.1.0.v201511131603"/>
+<entry key="node-bundle-version" type="xstring" value="3.3.0.v201612012034"/>
 <entry key="node-feature-name" type="xstring" value="KNIME Open Street Map Integration"/>
 <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.ext.osm.feature.group"/>
 <entry key="node-feature-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
-<entry key="node-feature-version" type="xstring" value="3.1.0.v201511131603"/>
+<entry key="node-feature-version" type="xstring" value="3.3.0.v201612012034"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="OSM Map View"/>
-<entry key="hasContent" type="xboolean" value="false"/>
+<entry key="hasContent" type="xboolean" value="true"/>
 <entry key="isInactive" type="xboolean" value="false"/>
 <config key="ports"/>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" isnull="true" value=""/>
+<entry key="file_store_id" type="xstring" value="0b7b69b3-376c-49ed-8bb4-9eb975f17c47"/>
 </config>
 </config>

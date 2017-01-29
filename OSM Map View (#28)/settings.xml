@@ -71,7 +71,7 @@
 <entry key="bgcolor" type="xint" value="16777215"/>
 <entry key="x-coordinate" type="xint" value="447"/>
 <entry key="y-coordinate" type="xint" value="499"/>
-<entry key="width" type="xint" value="106"/>
+<entry key="width" type="xint" value="107"/>
 <entry key="height" type="xint" value="45"/>
 <entry key="alignment" type="xstring" value="CENTER"/>
 <entry key="borderSize" type="xint" value="0"/>
@@ -87,11 +87,11 @@
 <entry key="node-bundle-name" type="xstring" value="KNIME Open Street Map Views Integration"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.ext.osm"/>
 <entry key="node-bundle-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
-<entry key="node-bundle-version" type="xstring" value="3.1.0.v201511131603"/>
+<entry key="node-bundle-version" type="xstring" value="3.3.0.v201612012034"/>
 <entry key="node-feature-name" type="xstring" value="KNIME Open Street Map Integration"/>
 <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.ext.osm.feature.group"/>
 <entry key="node-feature-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
-<entry key="node-feature-version" type="xstring" value="3.1.0.v201511131603"/>
+<entry key="node-feature-version" type="xstring" value="3.3.0.v201612012034"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="OSM Map View"/>
 <entry key="hasContent" type="xboolean" value="true"/>
@@ -99,6 +99,6 @@
 <config key="ports"/>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="49ccaf5f-1831-40b2-85c2-476cbf362629"/>
+<entry key="file_store_id" type="xstring" value="b42a947e-c264-47b7-add7-7d6527b4ee35"/>
 </config>
 </config>

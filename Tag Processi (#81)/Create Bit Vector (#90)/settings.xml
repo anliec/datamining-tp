@@ -258,32 +258,33 @@
 <entry key="vectorType" type="xstring" value="DENSE"/>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
-<entry key="state" type="xstring" value="EXECUTED"/>
+<entry key="state" type="xstring" value="IDLE"/>
+<config key="nodecontainer_message">
+<entry key="type" type="xstring" value="WARNING"/>
+<entry key="message" type="xstring" value="Status: DataLoadError: Create Bit Vector 2:81:90%%00010  Status: DataLoadError: Unable to load port content for node &quot;Create Bit Vector&quot;: No such data file: /home/nicolas/Documents/Programation/DataMining/datamining-tp/Tag Processi (#81)/Create Bit Vector (#90)/port_1/data.xml%%00010  Status: DataLoadError: Loading model internals failed: /home/nicolas/Documents/Programation/DataMining/datamining-tp/Tag Processi (#81)/Create Bit Vector (#90)/internal/bitVectorParams (Aucun fichier ou dossier de ce type)"/>
+</config>
 <entry key="factory" type="xstring" value="org.knime.base.node.preproc.bitvector.create.CreateBitVectorNodeFactory"/>
 <entry key="node-name" type="xstring" value="Create Bit Vector"/>
 <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
 <entry key="node-bundle-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
-<entry key="node-bundle-version" type="xstring" value="3.1.1.v201601211102"/>
+<entry key="node-bundle-version" type="xstring" value="3.3.1.v201612190931"/>
 <entry key="node-feature-name" type="xstring" value="KNIME Core"/>
 <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
 <entry key="node-feature-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
-<entry key="node-feature-version" type="xstring" value="3.1.1.v201601291159"/>
+<entry key="node-feature-version" type="xstring" value="3.3.1.v201612192115"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="Create Bit Vector"/>
-<entry key="hasContent" type="xboolean" value="true"/>
+<entry key="hasContent" type="xboolean" value="false"/>
 <entry key="isInactive" type="xboolean" value="false"/>
 <config key="ports">
 <config key="port_1">
 <entry key="index" type="xint" value="1"/>
-<entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
-<entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 1130, Cols: 145"/>
-<entry key="port_dir_location" type="xstring" value="port_1"/>
+<entry key="port_dir_location" type="xstring" isnull="true" value=""/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="1a1be0f8-c3c8-4a31-bfce-70a39687e0ca"/>
+<entry key="file_store_id" type="xstring" isnull="true" value=""/>
 </config>
 </config>

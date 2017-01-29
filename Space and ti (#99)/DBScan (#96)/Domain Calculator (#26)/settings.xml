@@ -87,7 +87,7 @@
 <entry key="bgcolor" type="xint" value="16777215"/>
 <entry key="x-coordinate" type="xint" value="427"/>
 <entry key="y-coordinate" type="xint" value="319"/>
-<entry key="width" type="xint" value="106"/>
+<entry key="width" type="xint" value="107"/>
 <entry key="height" type="xint" value="45"/>
 <entry key="alignment" type="xstring" value="CENTER"/>
 <entry key="borderSize" type="xint" value="0"/>
@@ -103,11 +103,11 @@
 <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
 <entry key="node-bundle-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
-<entry key="node-bundle-version" type="xstring" value="3.1.1.v201601211102"/>
+<entry key="node-bundle-version" type="xstring" value="3.3.1.v201612190931"/>
 <entry key="node-feature-name" type="xstring" value="KNIME Core"/>
 <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
 <entry key="node-feature-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
-<entry key="node-feature-version" type="xstring" value="3.1.1.v201601291159"/>
+<entry key="node-feature-version" type="xstring" value="3.3.1.v201612192115"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="Domain Calculator"/>
 <entry key="hasContent" type="xboolean" value="true"/>
@@ -123,6 +123,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="260f72cb-3a2e-4d08-a89b-dba58b184e81"/>
+<entry key="file_store_id" type="xstring" value="0b9f3bd3-5063-4fb9-9aac-9163b0b7c39b"/>
 </config>
 </config>

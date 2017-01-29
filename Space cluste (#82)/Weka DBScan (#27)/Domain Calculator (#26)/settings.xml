@@ -87,11 +87,11 @@
 <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
 <entry key="node-bundle-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
-<entry key="node-bundle-version" type="xstring" value="3.1.1.v201601211102"/>
+<entry key="node-bundle-version" type="xstring" value="3.3.1.v201612190931"/>
 <entry key="node-feature-name" type="xstring" value="KNIME Core"/>
 <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
 <entry key="node-feature-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
-<entry key="node-feature-version" type="xstring" value="3.1.1.v201601291159"/>
+<entry key="node-feature-version" type="xstring" value="3.3.1.v201612192115"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="Domain Calculator"/>
 <entry key="hasContent" type="xboolean" value="true"/>
@@ -107,6 +107,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="542e9244-862f-4d67-b6dc-59acffd81336"/>
+<entry key="file_store_id" type="xstring" value="2c5b1e0b-b772-47e3-9fc9-4330cea00153"/>
 </config>
 </config>

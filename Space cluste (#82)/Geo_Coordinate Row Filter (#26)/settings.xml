@@ -81,11 +81,11 @@
 <entry key="node-bundle-name" type="xstring" value="KNIME Open Street Map Views Integration"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.ext.osm"/>
 <entry key="node-bundle-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
-<entry key="node-bundle-version" type="xstring" value="3.1.0.v201511131603"/>
+<entry key="node-bundle-version" type="xstring" value="3.3.0.v201612012034"/>
 <entry key="node-feature-name" type="xstring" value="KNIME Open Street Map Integration"/>
 <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.ext.osm.feature.group"/>
 <entry key="node-feature-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
-<entry key="node-feature-version" type="xstring" value="3.1.0.v201511131603"/>
+<entry key="node-feature-version" type="xstring" value="3.3.0.v201612012034"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="Geo-Coordinate Row Filter"/>
 <entry key="hasContent" type="xboolean" value="true"/>
@@ -101,6 +101,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="965d93be-ea4b-4fbe-9580-6532970e367e"/>
+<entry key="file_store_id" type="xstring" value="88d01e04-549e-4d1c-864b-ef7f24caa4d6"/>
 </config>
 </config>
